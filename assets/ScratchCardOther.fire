@@ -180,7 +180,7 @@
       "array": [
         0,
         0,
-        227.01023464325993,
+        252.8794179050561,
         0,
         0,
         0,
@@ -571,7 +571,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 473.39,
+      "width": 356.69,
       "height": 37.8
     },
     "_anchorPoint": {
@@ -622,8 +622,8 @@
       }
     ],
     "_useOriginalSize": false,
-    "_string": "该场景可以在 1.9.3 及以下版本运行",
-    "_N$string": "该场景可以在 1.9.3 及以下版本运行",
+    "_string": "该场景可以在 2.x 版本运行",
+    "_N$string": "该场景可以在 2.x 版本运行",
     "_fontSize": 30,
     "_lineHeight": 30,
     "_enableWrapText": true,
